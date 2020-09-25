@@ -1,1 +1,2 @@
-Come across the functionalities of hub and switches.We come across PDU which is a single unit of data transmitted across the peers. I understood the dataflow among end devices. 
+Come across the data transmission across the devices which are connected to different network. I understood how to use ping command to check if the end device are sending data. 
+Got to know Routers functionalities which routes the data from devices from different network.Got to know the usage of attributes in the configuration of the devices.
