@@ -1,0 +1,1 @@
+By doing this experiment I came to know how to configure with default route to allow moving packets to the successor router and so on.It can be tested by using ping command in the command prompt
